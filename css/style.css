@@ -1,0 +1,39 @@
+#main_footer {
+    background-color: #87CEEB;
+    padding: 25px;
+    
+    width: 100%;
+    text-decoration: none;
+}
+
+.card {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 0 10px;
+   
+  }
+
+  .call {
+    text-decoration: none;
+  }
+  
+
+  .about {
+    padding-left: 40px;
+  }
+
+  hr {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+ }
+ 
+  
+  .cards {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+
+  
